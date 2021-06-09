@@ -14,3 +14,23 @@ When end-users pay for software services, the cryptocurrency they pay goes to bu
 ![Circular Token Economy](./media/circular-economy.png)
 
 New tokens are minted to fund developers (supply), and old tokens are taken out of circulation through the burning mechanism of users consuming services (demand). New tokens are directed by existing token holders to fund developer grants every three months. It is the responsibility of PSF token holders (participating the in the governance of the organization) to balance the circulating supply and price of the token.
+
+## Governance
+
+The PSF community regularly engages in voting for [proposals](https://psfoundation.cash/proposals). Voting tokens are distributed to the top 50 addresses based on _merit_. Merit is the product of token quantity and token age (in days):
+
+> merit = token quantity x token age
+
+Each address that holds PSF tokens has its merit calculated. 10,000 voting tokens are air-dropped to the top 50 addresses.
+
+Merit incentivizes savings of the PSF tokens. Those who earn and hold tokens are in the best position to influence the PSF community. Those who have the most 'skin in the game' have the most control, and every member starts on a level playing field with clear rules.
+
+### VIP Members
+
+PSF community members who achieve a merit score of 30,000 are allowed to speak in the [VIP Telegram channel](https://t.me/psf_vip). These are considered the 'economically significant' members of the community. The top-level committees are answerable to this group. The governance structure is expanded [in this blog post](https://psfoundation.cash/blog/healthy-bitcoin).
+
+30,000 can be achieved in any combination of ways. Here are some examples:
+
+- 1,000 tokens for 30 days
+- 2,000 tokens for 15 days
+- 10,000 tokens for 3 days
