@@ -13,4 +13,4 @@ When end-users pay for software services, the cryptocurrency they pay goes to bu
 
 ![Circular Token Economy](./media/circular-economy.png)
 
-As long as efforts by developers result in stable, valuable software services, the token will maintain its peg to the underlying cryptocurrency. New tokens are minted to fund developers, and old tokens are taken out of circulation through the burning mechanism of users consuming services. New tokens are directed by existing token holders to fund developer grants every three months.
+New tokens are minted to fund developers (supply), and old tokens are taken out of circulation through the burning mechanism of users consuming services (demand). New tokens are directed by existing token holders to fund developer grants every three months. It is the responsibility of PSF token holders (participating the in the governance of the organization) to balance the circulating supply and price of the token.
