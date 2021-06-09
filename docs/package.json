@@ -1,0 +1,19 @@
+{
+  "name": "PSF Org Docs",
+  "version": "0.0.1",
+  "description": "Organization documents for the PSF",
+  "main": "index.js",
+  "authors": {
+    "name": "Chris Troutner",
+    "email": "chris.troutner@gmail.com"
+  },
+  "repository": "https://github.com/Permissionless-Software-Foundation/psf-org-docs/PSF Org Docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^0.14.11"
+  }
+}
