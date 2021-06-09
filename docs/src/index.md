@@ -2,7 +2,7 @@
 home: true
 heroImage: https://psfoundation.cash/static/psf-logo-32a2c411985bbbf299687b06c3224384.png
 tagline: Organization documents for the PSF
-actionText: Quick Start →
+actionText: Business Plan →
 actionLink: /biz-plan/
 features:
 - title: Feature 1 Test
