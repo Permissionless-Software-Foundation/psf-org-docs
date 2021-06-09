@@ -11,7 +11,8 @@
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src",
-    "test": "echo no tests"
+    "test": "echo no tests",
+    "start": "npm run dev"
   },
   "license": "MIT",
   "devDependencies": {
