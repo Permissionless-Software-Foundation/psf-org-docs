@@ -24,6 +24,6 @@ The PSF community has several important channels of communication. Here is how y
 - [PSF VIP Telegram Channel](https://t.me/psf_vip) can be viewed by anyone, but only VIP members with a merit score of 30K are allowed to speak in this channel.
 - [bch-js Toolkit Telegram Channel](https://t.me/bch_js_toolkit) is a technical community support channel for the Core software maintained by the PSF.
 - [PSF Social Chat](https://t.me/psf_social) is a Telegram channel for members to discuss anything. It's the place to talk about subjects that don't fit into the other channels.
-- [message.FullStack.cash](https://message.fullstack.cash) is an for file sharing and sending e2e encrypted messages to other PSF members.
+- [message.FullStack.cash](https://message.fullstack.cash) is an app for file sharing and sending e2e encrypted messages to other PSF members.
 - [chat.FullStack.cash](https://chat.fullstack.cash) is an e2e encrypted instant messenger app.
 - The PSF also has [YouTube](https://www.youtube.com/channel/UCQ57IDXJJSYXHBLpF1tBD0g) and [Odysee](https://odysee.com/@psf:0) video channels.
