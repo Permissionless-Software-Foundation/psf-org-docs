@@ -13,5 +13,3 @@ sidebar: auto
 
 - Type: `string`
 - Default: `/`
-
-test
